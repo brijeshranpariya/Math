@@ -134,3 +134,5 @@ Note: these numbers come from the problem statement, not the dataset, so the P(P
 - Draw an actual Venn diagram (with `matplotlib-venn`) instead of just printing the counts.
 - Look at how `previous_test_score` relates to passing, since I haven't used that column yet.
 - Plot the binomial distribution as a bar chart.
+
+### Video Link: https://drive.google.com/file/d/1R1m8GtfsNLKHKawprupc9sd1UnLSOMAX/view?usp=drive_link
